@@ -31,6 +31,9 @@ yarn-error.log*
 *.tsbuildinfo
 next-env.d.ts
 
+# local database (PGlite dev data dir — never commit dev data)
+/.pglite/
+
 # editor
 .vscode/
 .idea/

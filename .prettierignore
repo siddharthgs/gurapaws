@@ -3,3 +3,7 @@ out/
 node_modules/
 *.lock
 package-lock.json
+
+# generated DB artifacts (drizzle-kit output + local PGlite data)
+drizzle/
+.pglite/
