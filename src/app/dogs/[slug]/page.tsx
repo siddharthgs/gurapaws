@@ -29,10 +29,10 @@ export async function generateMetadata({
 }): Promise<Metadata> {
   const { slug } = await params;
   const dog = await getDogBySlug(slug);
-  if (!dog) return { title: 'Dog not found · GuraPaws' };
+  if (!dog) return { title: 'Dog not found · Gurfan' };
   const where = dog.area ? `${dog.area}, ${dog.city}` : dog.city;
   return {
-    title: `${dog.name} · Adopt in ${dog.city} · GuraPaws`,
+    title: `${dog.name} · Adopt in ${dog.city} · Gurfan`,
     description:
       dog.description ??
       `Meet ${dog.name}, a ${dog.breed ?? 'rescue dog'} looking for a home in ${where}.`,

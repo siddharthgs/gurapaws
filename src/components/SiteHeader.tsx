@@ -6,7 +6,7 @@ export function SiteHeader() {
     <header className="sticky top-0 z-10 border-b border-gray-200 bg-white/90 backdrop-blur">
       <div className="mx-auto flex max-w-6xl items-center justify-between px-4 py-3 sm:px-6">
         <Link href="/" className="text-xl font-extrabold tracking-tight">
-          Gura<span className="text-amber-600">Paws</span>
+          Gur<span className="text-amber-600">fan</span>
         </Link>
         <nav>
           <Link

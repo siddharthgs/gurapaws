@@ -8,7 +8,7 @@ export default function Home() {
           🐾 Hyderabad
         </span>
         <h1 className="text-5xl font-extrabold tracking-tight sm:text-6xl">
-          Gura<span className="text-amber-600">Paws</span>
+          Gur<span className="text-amber-600">fan</span>
         </h1>
         <p className="mt-6 text-lg text-gray-600 sm:text-xl">
           Every adoptable dog in Hyderabad, in one place. We are building the

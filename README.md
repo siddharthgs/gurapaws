@@ -1,8 +1,8 @@
-# GuraPaws 🐾
+# Gurfan 🐾
 
 A digital-native dog adoption platform for **Hyderabad** — built to scale across India.
 
-GuraPaws is a two-sided platform: shelters, NGOs, and independent rescuers list adoptable dogs (supply); adopters browse and apply (demand). The goal is to make listing and adopting radically faster than today's WhatsApp-and-Instagram status quo.
+Gurfan is a two-sided platform: shelters, NGOs, and independent rescuers list adoptable dogs (supply); adopters browse and apply (demand). The goal is to make listing and adopting radically faster than today's WhatsApp-and-Instagram status quo.
 
 > **Status:** R0.2 — Core data model + persistence (Dog / Lister / Adopter / Application) on Drizzle + Postgres. ([GURA-3](/GURA/issues/GURA-3))
 

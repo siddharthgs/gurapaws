@@ -4,7 +4,7 @@ import { DogBrowser } from '@/components/DogBrowser';
 import { getBrowseDogs } from '@/lib/dogs';
 
 export const metadata: Metadata = {
-  title: 'Adoptable dogs in Hyderabad · GuraPaws',
+  title: 'Adoptable dogs in Hyderabad · Gurfan',
   description:
     'Browse real, adoptable dogs from Hyderabad shelters, NGOs, and rescuers. Filter by location, size, age, sex, and temperament.',
 };
