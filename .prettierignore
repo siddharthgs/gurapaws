@@ -7,3 +7,6 @@ package-lock.json
 # generated DB artifacts (drizzle-kit output + local PGlite data)
 drizzle/
 .pglite/
+
+# generated build-time catalogue snapshot (written by db:export, see GURA-4)
+src/data/
