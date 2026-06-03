@@ -5,6 +5,7 @@
   "description": "GuraPaws — a digital-native dog adoption platform for Hyderabad.",
   "scripts": {
     "dev": "next dev",
+    "prebuild": "npm run db:reset && npm run db:export",
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
@@ -14,6 +15,7 @@
     "db:migrate": "tsx src/db/migrate.ts",
     "db:seed": "tsx src/db/seed.ts",
     "db:check": "tsx src/db/check.ts",
+    "db:export": "tsx src/db/export-catalog.ts",
     "db:reset": "tsx src/db/migrate.ts && tsx src/db/seed.ts"
   },
   "dependencies": {

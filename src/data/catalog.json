@@ -1,0 +1,159 @@
+{
+  "dogs": [
+    {
+      "slug": "laila-beagle-jubilee-hills",
+      "name": "Laila",
+      "breed": "Beagle",
+      "size": "small",
+      "ageMonths": 60,
+      "sex": "female",
+      "temperament": [
+        "affectionate",
+        "food-motivated",
+        "vocal"
+      ],
+      "photos": [],
+      "description": "Senior beagle whose owner passed away. Healthy, house-trained, deserves a cosy retirement.",
+      "status": "available",
+      "city": "Hyderabad",
+      "area": "Jubilee Hills",
+      "lister": {
+        "name": "Blue Cross of Hyderabad",
+        "type": "shelter",
+        "area": "Jubilee Hills",
+        "city": "Hyderabad",
+        "about": "One of Hyderabad’s oldest animal-welfare shelters, rehoming rescued dogs since 1993.",
+        "verified": true
+      }
+    },
+    {
+      "slug": "bujji-indie-jubilee-hills",
+      "name": "Bujji",
+      "breed": "Indie (Indian Pariah)",
+      "size": "medium",
+      "ageMonths": 14,
+      "sex": "female",
+      "temperament": [
+        "friendly",
+        "good-with-kids",
+        "house-trained"
+      ],
+      "photos": [],
+      "description": "Gentle indie girl rescued near KBR Park. Loves walks and curling up at your feet.",
+      "status": "available",
+      "city": "Hyderabad",
+      "area": "Jubilee Hills",
+      "lister": {
+        "name": "Blue Cross of Hyderabad",
+        "type": "shelter",
+        "area": "Jubilee Hills",
+        "city": "Hyderabad",
+        "about": "One of Hyderabad’s oldest animal-welfare shelters, rehoming rescued dogs since 1993.",
+        "verified": true
+      }
+    },
+    {
+      "slug": "rocky-labrador-gachibowli",
+      "name": "Rocky",
+      "breed": "Labrador (mix)",
+      "size": "large",
+      "ageMonths": 36,
+      "sex": "male",
+      "temperament": [
+        "energetic",
+        "loyal",
+        "needs-a-yard"
+      ],
+      "photos": [],
+      "description": "Surrendered when his family relocated. Well-trained, great with adults, needs daily exercise.",
+      "status": "available",
+      "city": "Hyderabad",
+      "area": "Gachibowli",
+      "lister": {
+        "name": "People For Animals — Hyderabad",
+        "type": "ngo",
+        "area": "Gachibowli",
+        "city": "Hyderabad",
+        "about": "Volunteer-run NGO rescuing and rehabilitating street dogs.",
+        "verified": true
+      }
+    },
+    {
+      "slug": "simba-gsd-madhapur",
+      "name": "Simba",
+      "breed": "German Shepherd (mix)",
+      "size": "large",
+      "ageMonths": 18,
+      "sex": "male",
+      "temperament": [
+        "protective",
+        "smart",
+        "needs-training"
+      ],
+      "photos": [],
+      "description": "Found abandoned on ORR. Intelligent and eager to please; ideal for an active adopter.",
+      "status": "available",
+      "city": "Hyderabad",
+      "area": "Madhapur",
+      "lister": {
+        "name": "Sahana Reddy",
+        "type": "rescuer",
+        "area": "Madhapur",
+        "city": "Hyderabad",
+        "about": "Independent foster-and-rescue; usually has 3–4 indies looking for homes.",
+        "verified": false
+      }
+    },
+    {
+      "slug": "mishti-pup-madhapur",
+      "name": "Mishti",
+      "breed": "Indie (Indian Pariah)",
+      "size": "small",
+      "ageMonths": 4,
+      "sex": "female",
+      "temperament": [
+        "playful",
+        "curious"
+      ],
+      "photos": [],
+      "description": "Bottle-fed pup from a litter of five. Vaccinated, dewormed, ready in 2 weeks.",
+      "status": "available",
+      "city": "Hyderabad",
+      "area": "Madhapur",
+      "lister": {
+        "name": "Sahana Reddy",
+        "type": "rescuer",
+        "area": "Madhapur",
+        "city": "Hyderabad",
+        "about": "Independent foster-and-rescue; usually has 3–4 indies looking for homes.",
+        "verified": false
+      }
+    },
+    {
+      "slug": "kaalu-indie-gachibowli",
+      "name": "Kaalu",
+      "breed": "Indie (Indian Pariah)",
+      "size": "medium",
+      "ageMonths": 24,
+      "sex": "male",
+      "temperament": [
+        "calm",
+        "shy",
+        "good-with-other-dogs"
+      ],
+      "photos": [],
+      "description": "Quiet, dignified boy who warms up fast. Would suit a calm household.",
+      "status": "pending",
+      "city": "Hyderabad",
+      "area": "Gachibowli",
+      "lister": {
+        "name": "People For Animals — Hyderabad",
+        "type": "ngo",
+        "area": "Gachibowli",
+        "city": "Hyderabad",
+        "about": "Volunteer-run NGO rescuing and rehabilitating street dogs.",
+        "verified": true
+      }
+    }
+  ]
+}
